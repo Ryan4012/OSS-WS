@@ -1,1 +1,1 @@
-# OSS-WS
+# Offensive Security Society Workshops @ CSUF
